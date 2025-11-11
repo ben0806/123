@@ -1,0 +1,17 @@
+<html>
+  <head>
+	 <meta charset="utf-8" />
+    <title>11111280林子皓資工四乙</title>
+  </head>
+
+  <body>
+	<meta charset="utf-8" />
+    <h1>11111280林子皓資工四乙</h1>
+
+    <p>This is a test website created by AWS CLI hosted on AWS S3 static web</p>
+
+    <img src="./image.png">
+
+    <p>Bunny is  happy  BTW </p>
+  </body>
+</html>
